@@ -4,7 +4,7 @@ const PROXY = process.env.PROXY_URL;
 const apiLink = process.env.CONSUMET_URL;
 const BASE_URL = process.env.CONSUMET_URL + "/meta/anilist/";
 const ANIWATCH_URL = process.env.HIANIME_URL + "/anime/";
-const API_KEY = "e2f1fb12caa883224a8363dc0329b3bc";
+const API_KEY = "29d963f32950cba6e489451836225ca0";
 const BASE_MOVIE_URL = "https://api.themoviedb.org";
 const MANGA_URL = process.env.MANGA_URL + "api/";
 
